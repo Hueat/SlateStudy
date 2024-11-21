@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MySlate-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\works\SlateTest\Intermediate\Build\Win64\SlateTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\works\SlateTest\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Module.MySlate.cpp.obj"
+"D:\works\SlateTest\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Default.rc2.res"
+/OUT:"D:\works\SlateTest\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\UE4Editor-MySlate-0003.lib"
