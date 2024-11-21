@@ -2,3 +2,4 @@
 #include "D:/works/SlateTest/Plugins/MySlate/Source/MySlate/Private/MySlate.cpp"
 #include "D:/works/SlateTest/Plugins/MySlate/Source/MySlate/Private/MySlateCommands.cpp"
 #include "D:/works/SlateTest/Plugins/MySlate/Source/MySlate/Private/MySlateStyle.cpp"
+#include "D:/works/SlateTest/Plugins/MySlate/Source/MySlate/Private/TestButton.cpp"

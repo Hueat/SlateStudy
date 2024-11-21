@@ -33,9 +33,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"D:\works\SlateTest\Intermediate\Build\Win64\SlateTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"D:\works\SlateTest\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Module.MySlate.cpp.obj"
-"D:\works\SlateTest\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Default.rc2.res"
+"D:\works\SlateStudy\Intermediate\Build\Win64\SlateTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Module.MySlate.cpp.obj"
+"D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Default.rc2.res"
 "D:\soft\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Projects\UE4Editor-Projects.lib"
 "D:\soft\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
 "D:\soft\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
@@ -69,7 +69,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\works\SlateTest\Plugins\MySlate\Binaries\Win64\UE4Editor-MySlate.dll"
-/IMPLIB:"D:\works\SlateTest\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\UE4Editor-MySlate.suppressed.lib"
-/PDB:"D:\works\SlateTest\Plugins\MySlate\Binaries\Win64\UE4Editor-MySlate.pdb"
+/OUT:"D:\works\SlateStudy\Plugins\MySlate\Binaries\Win64\UE4Editor-MySlate.dll"
+/IMPLIB:"D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\UE4Editor-MySlate.suppressed.lib"
+/PDB:"D:\works\SlateStudy\Plugins\MySlate\Binaries\Win64\UE4Editor-MySlate.pdb"
 /ignore:4078

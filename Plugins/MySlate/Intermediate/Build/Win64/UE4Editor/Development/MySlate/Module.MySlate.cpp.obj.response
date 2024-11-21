@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I D:\works\SlateTest\Plugins\MySlate\Source\MySlate\Private
+/I D:\works\SlateStudy\Plugins\MySlate\Source\MySlate\Private
 /I Runtime
 /I Runtime\Projects\Public
 /I Runtime\TraceLog\Public
@@ -232,8 +232,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AIModule
 /I Runtime\AIModule\Public
 /I Runtime\AIModule\Classes
-/I D:\works\SlateTest\Plugins\MySlate\Source
-/I D:\works\SlateTest\Plugins\MySlate\Source\MySlate\Public
+/I D:\works\SlateStudy\Plugins\MySlate\Source
+/I D:\works\SlateStudy\Plugins\MySlate\Source\MySlate\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -263,12 +263,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\works\SlateTest\Intermediate\Build\Win64\SlateTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"D:\works\SlateTest\Intermediate\Build\Win64\SlateTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"D:\works\SlateTest\Intermediate\Build\Win64\SlateTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"D:\works\SlateTest\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Module.MySlate.cpp"
-/FI"D:\works\SlateTest\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Definitions.MySlate.h"
-/Fo"D:\works\SlateTest\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Module.MySlate.cpp.obj"
+/FI"D:\works\SlateStudy\Intermediate\Build\Win64\SlateTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"D:\works\SlateStudy\Intermediate\Build\Win64\SlateTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"D:\works\SlateStudy\Intermediate\Build\Win64\SlateTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Module.MySlate.cpp"
+/FI"D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Definitions.MySlate.h"
+/Fo"D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Module.MySlate.cpp.obj"
 /TP
 /GR-
 /W4
