@@ -8,6 +8,18 @@
 			"Name": "SlateTest",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		},
+		
+		{
+			"Name": "CoreOne",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+		
+	],
+	"Plugins": [
+		{"Name":"TaskPlugins",
+		"Enabled": true
 		}
 	]
 }

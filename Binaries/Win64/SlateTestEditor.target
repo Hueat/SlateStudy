@@ -28,6 +28,14 @@
 			"Type": "Executable"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/TaskPlugins/Binaries/Win64/UE4Editor-TaskPlugins.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/TaskPlugins/Binaries/Win64/UE4Editor-TaskPlugins.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/MySlate/Binaries/Win64/UE4Editor-MySlate.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -941,6 +949,14 @@
 		},
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-SlateTest.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-CoreOne.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-CoreOne.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -2440,6 +2456,10 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/TaskPlugins/Binaries/Win64/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/MySlate/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
@@ -2931,6 +2951,10 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/SlateTest.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/TaskPlugins/TaskPlugins.uplugin",
 			"Type": "UFS"
 		},
 		{
