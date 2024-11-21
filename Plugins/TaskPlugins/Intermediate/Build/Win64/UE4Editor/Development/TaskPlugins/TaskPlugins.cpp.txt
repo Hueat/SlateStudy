@@ -1,0 +1,2 @@
+D:\works\SlateStudy\Plugins\TaskPlugins\Intermediate\Build\Win64\UE4Editor\Development\TaskPlugins\Definitions.TaskPlugins.h
+D:\works\SlateStudy\Plugins\TaskPlugins\Source\TaskPlugins\Public\TaskPlugins.h

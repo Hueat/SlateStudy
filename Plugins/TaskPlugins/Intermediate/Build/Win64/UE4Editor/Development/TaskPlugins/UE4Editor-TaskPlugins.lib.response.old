@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TaskPlugins.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\works\SlateStudy\Intermediate\Build\Win64\SlateTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\works\SlateStudy\Plugins\TaskPlugins\Intermediate\Build\Win64\UE4Editor\Development\TaskPlugins\Module.TaskPlugins.cpp.obj"
+"D:\works\SlateStudy\Plugins\TaskPlugins\Intermediate\Build\Win64\UE4Editor\Development\TaskPlugins\Default.rc2.res"
+/OUT:"D:\works\SlateStudy\Plugins\TaskPlugins\Intermediate\Build\Win64\UE4Editor\Development\TaskPlugins\UE4Editor-TaskPlugins.lib"

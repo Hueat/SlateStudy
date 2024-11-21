@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TaskPlugins.cpp.obj": [
+			"DllTask.cpp.obj",
+			"TaskPlugins.cpp.obj"
+		],
+		"Module.TaskPlugins.gen.cpp.obj": [
+			"DllTask.gen.cpp.obj",
+			"TaskPlugins.init.gen.cpp.obj"
+		]
+	}
+}
