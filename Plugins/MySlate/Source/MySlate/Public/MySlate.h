@@ -27,4 +27,5 @@ private:
 
 private:
 	TSharedPtr<class FUICommandList> PluginCommands;
+	TSharedPtr<class SMyMineSlate> mineSlate;
 };

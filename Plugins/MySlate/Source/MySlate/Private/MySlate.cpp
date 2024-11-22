@@ -3,6 +3,7 @@
 #include "MySlate.h"
 #include "MySlateStyle.h"
 #include "MySlateCommands.h"
+#include "MyMineSlate.h"
 #include "LevelEditor.h"
 #include "Widgets/Docking/SDockTab.h"
 #include "Widgets/Layout/SBox.h"
@@ -61,16 +62,19 @@ TSharedRef<SDockTab> FMySlateModule::OnSpawnPluginTab(const FSpawnTabArgs& Spawn
 		);
 
 	return SNew(SDockTab)
-		.TabRole(ETabRole::NomadTab)
 		[
-			// Put your tab content here!
-			SNew(SBox)
-			.HAlign(HAlign_Center)
-			.VAlign(VAlign_Center)
-			[
-				SNew(STestButton)
-			]
+			SAssignNew(mineSlate,SMyMineSlate)
 		];
+		// .TabRole(ETabRole::NomadTab)
+		// [
+		// 	// Put your tab content here!
+		// 	SNew(SBox)
+		// 	.HAlign(HAlign_Center)
+		// 	.VAlign(VAlign_Center)
+		// 	[
+		// 		SNew(STestButton)
+		// 	]
+		// ];
 }
 
 void FMySlateModule::PluginButtonClicked()
