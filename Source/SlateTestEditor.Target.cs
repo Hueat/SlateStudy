@@ -9,6 +9,6 @@ public class SlateTestEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "SlateTest" ,"CoreOne"} );
+		ExtraModuleNames.AddRange( new string[] { "SlateTest" ,"CoreOne","HelloWord"} );
 	}
 }
