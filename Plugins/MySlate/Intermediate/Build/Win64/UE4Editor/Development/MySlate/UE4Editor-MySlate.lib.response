@@ -7,6 +7,9 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\works\SlateStudy\Intermediate\Build\Win64\SlateTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\MyMineSlate.cpp.obj"
+"D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\MySlate.cpp.obj"
+"D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\MySlateButton.cpp.obj"
 "D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Module.MySlate.cpp.obj"
 "D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\Default.rc2.res"
 /OUT:"D:\works\SlateStudy\Plugins\MySlate\Intermediate\Build\Win64\UE4Editor\Development\MySlate\UE4Editor-MySlate.lib"

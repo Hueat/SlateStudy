@@ -15,7 +15,14 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
-		
+	,
+
+		{
+			"Name": "HelloWord",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+
 	],
 	"Plugins": [
 		{"Name":"TaskPlugins",

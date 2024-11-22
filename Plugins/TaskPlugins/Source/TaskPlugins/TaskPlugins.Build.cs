@@ -6,6 +6,7 @@ public class TaskPlugins : ModuleRules
 {
 	public TaskPlugins(ReadOnlyTargetRules Target) : base(Target)
 	{
+		//bUsePrecompiled = true;
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 		
 		PublicIncludePaths.AddRange(

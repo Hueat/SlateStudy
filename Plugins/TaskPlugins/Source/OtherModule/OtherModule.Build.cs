@@ -1,11 +1,14 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
+using System.Security.Policy;
 using UnrealBuildTool;
 
 public class OtherModule : ModuleRules
 {
+	
 	public OtherModule(ReadOnlyTargetRules Target) : base(Target)
 	{
+		bUsePrecompiled = true;
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 		
 		PublicIncludePaths.AddRange(

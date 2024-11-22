@@ -3,6 +3,7 @@
 	"Modules": 
 	{
 		"CoreOne": "UE4Editor-CoreOne.dll",
+		"HelloWord": "UE4Editor-HelloWord.dll",
 		"SlateTest": "UE4Editor-SlateTest.dll"
 	}
 }

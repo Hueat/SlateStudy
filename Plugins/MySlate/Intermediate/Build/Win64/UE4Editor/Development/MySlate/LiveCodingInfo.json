@@ -2,10 +2,12 @@
 	"RemapUnityFiles": 
 	{
 		"Module.MySlate.cpp.obj": [
-			"MySlate.cpp.obj",
 			"MySlateCommands.cpp.obj",
 			"MySlateStyle.cpp.obj",
-			"TestButton.cpp.obj"
+			"TestButton.cpp.obj",
+			"MyMineSlate.cpp.obj",
+			"MySlate.cpp.obj",
+			"MySlateButton.cpp.obj"
 		]
 	}
 }
